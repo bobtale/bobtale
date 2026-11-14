@@ -32,10 +32,6 @@ When I'm not coding, I'm probably gaming or plugging yet another gadget into a R
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bobtale&bg_color=0d0d0d&color=ffffff&title_color=e50914&line=e50914&point=ffffff&area=true&area_color=b3001b&hide_border=true&custom_title=Contributions%20over%20the%20last%20month" alt="Activity graph" />
-</p>
-
-<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bobtale/bobtale/output/github-snake-dark.svg" />
     <img src="https://raw.githubusercontent.com/bobtale/bobtale/output/github-snake.svg" alt="Contribution snake" />
